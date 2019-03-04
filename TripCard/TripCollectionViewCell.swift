@@ -1,10 +1,7 @@
 //
 //  TripCollectionViewCell.swift
 //  TripCard
-//
-//  Created by Simon Ng on 9/11/2016.
-//  Copyright © 2016 AppCoda. All rights reserved.
-//
+
 
 import UIKit
 
